@@ -16,6 +16,8 @@ Solve this challenge and you will have 3 chances to win one of our Prizes:
 
 Hint = Werner says: watch the video! 
 
+and try to catch the unicorns !!!
+
 # Note: 
 # You can only play one time 
 # per day!
