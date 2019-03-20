@@ -19,5 +19,5 @@ Hint = Werner says: watch the video!
 and try to catch the unicorns !!!
 
 # Note: 
-# You can only play one time 
-# per day!
+ You can only play one time 
+per day!
