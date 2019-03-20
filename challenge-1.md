@@ -1,12 +1,11 @@
 # challenge-1
 
-Want to win a Unicorn or 
-a Ticket to Websummit 2019?
+# Want to win a Unicorn or a Ticket to Websummit 2019?
 
 Today is your lucky day! 
 Solve this challenge and you will have 3 chances to win one of our Prizes:
 
-Decode & find 7 benefits of working in #lxtechhub
+# Decode & find 7 benefits of working in #lxtechhub
 
 | 61 48 52 30 63 48 4d 36 4c 79 39
 33 64 33 63 75 65 57 39 31 64 48 
@@ -17,6 +16,6 @@ Decode & find 7 benefits of working in #lxtechhub
 
 Hint = Werner says: watch the video! 
 
-Note: 
-You can only play one time 
-per day!
+# Note: 
+# You can only play one time 
+# per day!
