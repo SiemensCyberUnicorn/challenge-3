@@ -4,7 +4,7 @@ Today is your lucky day! Solve this challenge and you will have the chance to wi
 
 # spot-the-spotter
 
-connect to Patricia Mauricio on LinkedIn ( she caught a pink Unicorn )
+connect to Patricia Mauricio on LinkedIn ( she caught a cyber Unicorn )
 leave a like in her latest post 
 and tell us how many free seats we have in Portugal #lxtechhub
 
